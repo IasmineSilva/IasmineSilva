@@ -1,7 +1,7 @@
-## Olá, eu sou a Iasmine
+## Olá!!! Eu sou a Iasmine
 
 -Front-end
--Estudando JavaScript
+-Estudando TypeScript 
 -Contate-me no e-mail:iasmine948@gmail.com
 
 <div align="center">
