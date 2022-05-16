@@ -1,8 +1,8 @@
 ## Olá!!! Eu sou a Iasmine
 
--Front-end
--Estudando TypeScript 
--Contate-me no e-mail:iasmine948@gmail.com
+-Front-end🛠️<br>
+-Estudando TypeScript👾<br>
+-Contate-me no e-mail:iasmine948@gmail.com<br>
 
 <div align="center">
   <a href="https://github.com/IasmineSilva">
