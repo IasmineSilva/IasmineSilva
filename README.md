@@ -3,6 +3,7 @@
 -Front-end🛠️<br>
 -Estudando TypeScript👾<br>
 -Contate-me no e-mail:iasmine948@gmail.com<br>
+-👩‍💻 Estou cursando Análise e desenvolvimento de sistemas <br>
 
 <div align="center">
   <a href="https://github.com/IasmineSilva">
