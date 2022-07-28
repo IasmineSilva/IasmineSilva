@@ -1,7 +1,7 @@
 ## Olá!!! Eu sou a Iasmine
 
--Front-end🛠️<br>
--Estudando TypeScript👾<br>
+-🛠️Front-end🛠️<br>
+-👾Estudando TypeScript<br>
 -Contate-me no e-mail:iasmine948@gmail.com<br>
 -👩‍💻 Estou cursando Análise e desenvolvimento de sistemas <br>
 
@@ -16,7 +16,7 @@
   <img align="center" alt="iasmine-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="iasmine-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="iasmine-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="iasmine-vuejs" height="30" width="40" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D.svg">
+   <img align="center" alt="iasmine-vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="right" alt="iasmine-imagem" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/940637232912531500/940637369374244934/1644335804821.png"> 
 </div>
   
