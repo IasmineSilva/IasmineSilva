@@ -1,9 +1,9 @@
 ## Olá!!! Eu sou a Iasmine
 
--🛠️Front-end🛠️<br>
--👾Estudando TypeScript<br>
--Contate-me no e-mail:iasmine948@gmail.com<br>
--👩‍💻 Estou cursando Análise e Desenvolvimento de Sistemas <br>
+🛠️Front-end🛠️<br>
+👾Estudando TypeScript<br>
+📫ontate-me no e-mail:iasmine948@gmail.com<br>
+👩‍💻 Estou cursando Análise e Desenvolvimento de Sistemas <br>
 
 <div align="center">
   <a href="https://github.com/IasmineSilva">
