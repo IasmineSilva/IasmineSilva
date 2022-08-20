@@ -2,7 +2,7 @@
 
 🛠️Front-end🛠️<br>
 👾Estudando TypeScript<br>
-📫ontate-me no e-mail:iasmine948@gmail.com<br>
+📫Contate-me no e-mail:iasmine948@gmail.com<br>
 👩‍💻 Estou cursando Análise e Desenvolvimento de Sistemas <br>
 
 <div align="center">
