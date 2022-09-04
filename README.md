@@ -1,6 +1,6 @@
 ## Olá!!! Eu sou a Iasmine
 
-🛠️Apaixonada por Games e tudo relacionado a tecnologia🛠️<br>
+🎮Apaixonada por Games e tudo relacionado a tecnologia<br>
 👾Estudando C# <br>
 📫Contate-me no e-mail:iasmine948@gmail.com<br>
 👩‍💻 Estou cursando Análise e Desenvolvimento de Sistemas <br>
