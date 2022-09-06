@@ -1,9 +1,9 @@
 ## Olá!!! Eu sou a Iasmine
 
-🎮Apaixonada por Games e tudo relacionado a tecnologia<br>
-👾Estudando C# e Unity <br>
+🎮Apaixonada por Games e tudo relacionado a tecnologia!<br>
+👾Estudando C# e Unity. <br>
 📫Contate-me no e-mail:iasmine948@gmail.com<br>
-👩‍💻 Estou cursando Análise e Desenvolvimento de Sistemas <br>
+👩‍💻 Estou cursando Análise e Desenvolvimento de Sistemas. <br>
 
 <div align="center">
   <a href="https://github.com/IasmineSilva">
