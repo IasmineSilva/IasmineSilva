@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/IasmineSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iasminesilva&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iasminesilva&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminesilva&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 
