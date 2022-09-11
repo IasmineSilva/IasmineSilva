@@ -1,4 +1,4 @@
-## Olá!!! Eu sou a Iasmine
+## Olá! Eu sou a Iasmine🤘
 
 ●🎮Apaixonada por Games e tudo relacionado a tecnologia!<br>
 ●👾Estudando C#. <br>
