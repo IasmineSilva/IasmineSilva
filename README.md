@@ -1,5 +1,4 @@
-<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" />
-Olá! Eu sou a Iasmine🤘
+##Olá! Eu sou a Iasmine🤘
 
 ●🎮Apaixonada por Games e tudo relacionado a tecnologia!<br>
 ●👾Estudando C#. <br>
