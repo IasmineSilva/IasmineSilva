@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminesilva&layout=compact&langs_count=7&theme=outrun"/>
    <br>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/somekindofwallflower) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=somekinfofwallflower.visitor-badge)](https://github.com/somekindofwallflower) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/somekindofwallflower)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://https://github.com/IasmineSilva) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=somekinfofwallflower.visitor-badge)](https://https://github.com/IasmineSilva) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://https://github.com/IasmineSilva)
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
