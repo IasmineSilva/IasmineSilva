@@ -3,14 +3,12 @@
 ●🎮Apaixonada por Games e tudo relacionado a tecnologia!<br>
 ●👾Estudando C#. <br>
 ●👩‍💻 Estou cursando Análise e Desenvolvimento de Sistemas. <br>
+<img src="https://visitor-badge.glitch.me/badge?page_id=IasmineSilva.visitor-badge">
 
 <div align="center">
   <a href="https://github.com/IasmineSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iasminesilva&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminesilva&layout=compact&langs_count=7&theme=outrun"/>
-    <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIasmineSilva1212%2Fhit-counter"> -->
-</p>
-<br>
    <br>
 
   <div style="display: inline_block"><br>
