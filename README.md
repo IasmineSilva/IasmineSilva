@@ -1,8 +1,8 @@
 <h2>Olá! Eu sou a Iasmine🤘</h2>
 
 ●🎮Apaixonada por Games e tudo relacionado a tecnologia!<br>
-●👾Estudando C#. <br>
-●👩‍💻 Estou cursando Análise e Desenvolvimento de Sistemas. <br>
+●👾Estudando C#.<br>
+●👩‍💻 Estou cursando Análise e Desenvolvimento de Sistemas.<br>
 <img src="https://visitor-badge.glitch.me/badge?page_id=IasmineSilva.visitor-badge">
 
 <div align="center">
