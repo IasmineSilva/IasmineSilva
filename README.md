@@ -2,7 +2,7 @@
 
 ●🎮Apaixonada por Games e tudo relacionado a tecnologia!<br>
 ●👾Estudando C# e Vue JS<br>
-●👩‍💻 Estou cursando Análise e Desenvolvimento de Sistemas.<br>
+●👩‍💻 Estou cursando Análise e Desenvolvimento de Sistemas<br>
 <img src="https://visitor-badge.glitch.me/badge?page_id=IasmineSilva.visitor-badge">
 
 <div align="center">
