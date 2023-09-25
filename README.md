@@ -1,7 +1,7 @@
 <h2>Olá,Eu sou a Iasmine</h2>
 
 ●Atualmente trabalhando como QA<br>
-●Estudando C#.<br>
+●Estudando C#<br>
 ●Estou cursando Análise e Desenvolvimento de Sistemas<br>
 <img src="https://visitor-badge.glitch.me/badge?page_id=IasmineSilva.visitor-badge">
 
