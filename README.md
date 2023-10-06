@@ -1,4 +1,4 @@
-<h2>Olá,Eu sou a Iasmine.</h2>
+<h2>Olá,Eu sou a Iasmine</h2>
 
 ●Atualmente trabalhando como QA<br>
 ●Estudando C#<br>
