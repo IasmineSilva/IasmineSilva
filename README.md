@@ -1,17 +1,14 @@
+<!--Title @IasmineSilva-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&random=false&width=435&lines=Ol%C3%A1%2C+Me+chamo+Iasmine.+;Bem+vindo+ao+meu+perfil+no+Github)](https://git.io/typing-svg)
 <!--<div align="center">
   <img src="header.svg"  >
 </div>-->
-<h2>Olá,Eu sou a Iasmine</h2>
 
-●Atualmente trabalhando como QA<br>
-●Estudando C#<br>
-●Estou cursando Análise e Desenvolvimento de Sistemas<br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=IasmineSilva.visitor-badge">
 
 <div align="center">
   <a href="https://github.com/IasmineSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iasminesilva&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminesilva&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iasminesilva&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminesilva&layout=compact&langs_count=7&theme=midnight-purple"/>
    <br>
 
   <div style="display: inline_block"><br>
@@ -32,6 +29,7 @@
     <a href="https://instagram.com/iasmine__silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
     <a href="https://instagram.com/iasmine__silva" target="blank"><img align="center" /></a>
     
-  ![Snake animation](https://github.com/iasminesilva/iasminesilva/blob/output/github-contribution-grid-snake.svg)
+   <!------------------------------------------------Sneek Gusano-------------------------------------------->
+![Snake animation](https://github.com/Laura-lorrayne/laura-lorrayne/blob/output/github-contribution-grid-snake.svg)
  
   </div>
