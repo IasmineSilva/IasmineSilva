@@ -29,6 +29,6 @@
     <a href="https://instagram.com/iasmine__silva" target="blank"><img align="center" /></a>
     
    <!------------------------------------------------Sneek Gusano-------------------------------------------->
-![Snake animation](https://github.com/Laura-lorrayne/laura-lorrayne/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/IasmineSilva/IasmineSilva/blob/output/github-contribution-grid-snake.svg)
  
   </div>
