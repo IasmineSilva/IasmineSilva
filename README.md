@@ -29,3 +29,5 @@
     <a href="https://instagram.com/iasmine__silva" target="blank"><img align="center" /></a>
     
    <!------------------------------------------------Sneek Gusano-------------------------------------------->
+
+   ![snake gif](https://github.com/Iasminesilva/IasmineSilva/blob/output/github-contribution-grid-snake.svg)
