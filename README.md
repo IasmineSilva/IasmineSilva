@@ -30,4 +30,4 @@
     
    <!------------------------------------------------Sneek Gusano-------------------------------------------->
 
-   ![snake gif](https://github.com/Iasminesilva/IasmineSilva/blob/output/github-contribution-grid-snake.svg)
+   ![snake gif](https://github.com/IasmineSilva/IasmineSilva/blob/output/github-contribution-grid-snake.svg)
