@@ -4,8 +4,8 @@
 <!--<div align="center">
 </div>-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminesilva&layout=compact&langs_count=7&theme=midnight-purple"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasminesilva&show_icons=true&theme=buefy)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminesilva&layout=compact&langs_count=7&theme=buefy"/>
 <div align="center">
   <a href="https://github.com/IasmineSilva">
    <br>
