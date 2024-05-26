@@ -5,6 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasminesilva&show_icons=true&theme=buefy)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminesilva&layout=compact&langs_count=7&theme=buefy"/>
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 <div align="center">
   <a href="https://github.com/IasmineSilva">
    <br>
@@ -86,14 +87,29 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="48" height="48" alt="Cypress" />
       <br>Cypress
     </td>
-  
 </table>  
   
   <div>
+    <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
     <a href="https://www.linkedin.com/in/iasmine-silva-5614611aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentine fernandes" height="30" width="40" /></a>
     <a href="https://instagram.com/iasmine__silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
     <a href="https://instagram.com/iasmine__silva" target="blank"><img align="center" /></a>
+  </div>
     
    <!------------------------------------------------Sneek Gusano-------------------------------------------->
+   ## Jogo da cobrinha
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=007107&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iasminesilva/iasminesilva/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iasminesilva/iasminesilva/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iasminesilva/iasminesilva/output/github-contribution-grid-snake.svg">
+</picture>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=007107&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
+<br><br>
 
    ![snake gif](https://github.com/IasmineSilva/IasmineSilva/blob/output/github-contribution-grid-snake.svg)
