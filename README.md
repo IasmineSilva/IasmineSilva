@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&random=false&width=435&lines=Ol%C3%A1%2C+Me+chamo+Iasmine.+;Bem+vindo+ao+meu+perfil+no+Github!)](https://git.io/typing-svg)
 <!--<div align="center">
 </div>-->
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasminesilva&show_icons=true&theme=buefy)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminesilva&layout=compact&langs_count=7&theme=buefy"/>
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
