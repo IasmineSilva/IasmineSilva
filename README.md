@@ -67,8 +67,8 @@
       <br>AzureDevops
     </td>
    <td align="center" width="96"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="48" height="48" alt="Maven" />
-      <br>Maven
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" />
+      <br>Grafana
     </td>
      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="65" height="65" alt="Notion" />
