@@ -83,8 +83,8 @@
       <br>VisualStudio
     </td>
      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="48" height="48" alt="Cypress" />
-      <br>Cypress
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" width="48" height="48" alt="K6" />
+      <br>K6
     </td>
 </table>  
   
