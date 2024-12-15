@@ -12,9 +12,9 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="icon" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"alt="icon" width="65" height="65" />
       </a>
-      <br>Playwright
+      <br>Cypress
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" alt="csharp" />
