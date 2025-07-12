@@ -79,8 +79,8 @@
       <br>GitLab
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="65" height="65" alt="VisualStudio" />
-      <br>VisualStudio
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="65" height="65" alt="Jest" />
+      <br>Jest
     </td>
      <td align="center" width="96">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" width="48" height="48" alt="K6" />
