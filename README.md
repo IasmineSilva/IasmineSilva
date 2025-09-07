@@ -1,4 +1,3 @@
-<!--Title @IasmineSilva-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=691AF7&width=435&lines=Ol%C3%A1%2C+me+chamo+Iasmine;Quality+Assurance%2C+Test+Automation;Bem+vindo+ao+meu+perfil+no+Github!)](https://git.io/typing-svg)
 - QA | Automation & Testing  
 - Entusiasta de Devops e Desenvolvimento de Jogos
