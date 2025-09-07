@@ -3,7 +3,7 @@
 <!--<div align="center">
 </div>-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasminesilva&show_icons=true&theme=buefy)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminesilva&layout=compact&langs_count=7&theme=buefy"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminesilva&layout=compact&langs_count=8&theme=buefy"/>
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 <div align="center">
   <a href="https://github.com/IasmineSilva">
