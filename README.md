@@ -93,8 +93,6 @@
   <div>
     <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
     <a href="https://www.linkedin.com/in/iasmine-silva-5614611aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentine fernandes" height="30" width="40" /></a>
-    <a href="https://instagram.com/iasmine__silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
-    <a href="https://instagram.com/iasmine__silva" target="blank"><img align="center" /></a>
   </div>
     
    <!------------------------------------------------Sneek Gusano-------------------------------------------->
