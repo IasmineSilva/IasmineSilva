@@ -98,3 +98,5 @@
    <!------------------------------------------------Sneek Gusano-------------------------------------------->
 
    ![snake gif](https://github.com/IasmineSilva/IasmineSilva/blob/output/github-contribution-grid-snake.svg)
+
+   ![Contribuições Roxas](https://ghchart.rshah.org/6A5ACD/iasminesilva?nocache=20250930)
