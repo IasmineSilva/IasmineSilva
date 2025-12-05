@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=691AF7&width=435&lines=Ol%C3%A1%2C+me+chamo+Iasmine;Quality+Assurance%2C+Test+Automation;Bem+vindo+ao+meu+perfil+no+Github!)](https://git.io/typing-svg)
 - QA | Automation & Testing  
 - Entusiasta de Devops e Desenvolvimento de Jogos
-- Gosto de Automatizar processos | Exploradora de Novas Tecnologias
+- Gosto de Automatizar processos
 <!--<div align="center">
 </div>-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasminesilva&show_icons=true&theme=buefy)
