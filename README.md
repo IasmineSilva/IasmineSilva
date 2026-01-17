@@ -1,9 +1,17 @@
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=Welcome%20to%20My%20GitHub&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=6A5ACD"/>
+</div>
+
+<img align="right" src="https://count.getloli.com/@: iasminesilva?name=%3Aiasminesilva&theme=gelbooru&padding=7&scale=0.5&align=top&pixelated=1&darkmode=auto"/>
+
 <!-- Título central com animação pixelada -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&pause=900&color=6A5ACD&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+a+Iasmine!;QA+Automation+%7C+DevOps+%7C+Game+Enthusiast;Bem-vindo+ao+meu+perfil+no+GitHub!+%F0%9F%8E%AE"/>
   </a>
 </p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20"/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20"/>
 
@@ -112,6 +120,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminesilva&layout=compact&langs_count=8&theme=buefy"/>
 
 </div>
+
+## 🏆 GitHub Trophies
+<p align="center">  
+  <img src="https://github-trophies.vercel.app/?username=iasminesilva&margin-h=10&margin-w=10&theme=algolia" alt="trophies" />
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20"/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20"/>
 
