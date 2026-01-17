@@ -1,22 +1,19 @@
 <!-- Título central com animação pixelada -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&pause=900&color=6A5ACD&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+a+Iasmine!;QA+Automation+%7C+DevOps+%7C+Game+Enthusiast;Bem-vindo+ao+meu+perfil+no+GitHub!+%F0%9F%8E%AE"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&pause=900&color=6A5ACD&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+a+Iasmine! ;QA+Automation+%7C+DevOps+%7C+Game+Enthusiast;Bem-vindo+ao+meu+perfil+no+GitHub!+%F0%9F%8E%AE"/>
   </a>
 </p>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20"/>
 
 ## 👾 Sobre mim  
-- 🔍 Quality Assurance | Test Automation   
-- 🎮 Entusiasta de Desenvolvimento de Jogos  
+- 🔍 Quality Assurance | Test Automation  
+- 📦 Entusiasta de DevOps  
+- 🎮 Apaixonada por Desenvolvimento de Jogos  
 - ⚙️ Gosto de automatizar processos e criar soluções inteligentes
 
----
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%"/>
-
----
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20"/>
 
 ## 🧪 Tecnologias & Ferramentas
 
@@ -104,7 +101,7 @@
 
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20"/>
 
 ## 📊 Estatísticas
 
@@ -116,21 +113,7 @@
 
 </div>
 
----
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%"/>
-
----
-
-## 📫 Onde me encontrar
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/iasmine-silva-5614611aa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-</p>
-
----
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20"/>
 
 ## 🐍 Contribuições
 
