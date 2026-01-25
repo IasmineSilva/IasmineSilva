@@ -18,7 +18,7 @@
 ## 👾 Sobre mim  
 - 🔍 Quality Assurance | Test Automation  
 - 📦 Entusiasta de Desenvolvimento de Jogos  
-- ⚙️ Gosto de automatizar processos e criar soluções inteligentes
+- ⚙️ Gosto de automatizar processos
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20"/>
 
