@@ -110,7 +110,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20"/>
 
-## 📊 Estatísticas
+## 📊 Estatística
 
 <div align="center">
 
