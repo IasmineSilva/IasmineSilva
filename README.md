@@ -2,8 +2,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=Welcome%20to%20My%20GitHub&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=6A5ACD"/>
 </div>
 
-<img align="right" src="https://count.getloli.com/@: iasminesilva?name=%3Aiasminesilva&theme=gelbooru&padding=7&scale=0.5&align=top&pixelated=1&darkmode=auto"/>
-
 <!-- Título central com animação pixelada -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -11,7 +9,11 @@
   </a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20"/>
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:iasmineimplanta@gmail.com"><img src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/IasmineSilva" target="_blank"><img src="https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20"/>
 
@@ -113,19 +115,14 @@
 ## 📊 Estatística
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iasminesilva&show_icons=true&theme=buefy)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminesilva&layout=compact&langs_count=8&theme=buefy"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iasminesilva&show_icons=true&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=c9d1d9&bg_color=00000000"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminesilva&layout=compact&langs_count=8&hide_border=true&title_color=6A5ACD&text_color=c9d1d9&bg_color=00000000"/>
 </div>
 
 ## 🏆 GitHub Trophies
 <p align="center">  
   <img src="https://github-trophies.vercel.app/?username=iasminesilva&margin-h=10&margin-w=10&theme=algolia" alt="trophies" />
 </p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20"/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20"/>
 
@@ -137,4 +134,8 @@
 
 <p align="center">
   <img src="https://ghchart.rshah.org/6A5ACD/iasminesilva?nocache=20250930"/>
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/@:iasminesilva?name=%3Aiasminesilva&theme=gelbooru&padding=7&scale=0.5&align=top&pixelated=1&darkmode=auto"/>
 </p>
