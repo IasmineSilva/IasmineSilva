@@ -1,0 +1,29 @@
+name: daily commit
+
+on:
+  schedule:
+    # runs once a day at 09:00 UTC
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: update activity log
+        run: |
+          mkdir -p .github/activity
+          echo "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> .github/activity/log.txt
+
+      - name: commit and push
+        run: |
+          git config user.name "Iasmine"
+          git config user.email "iasmine948@gmail.com"
+          git add .github/activity/log.txt
+          git commit -m "chore: daily activity update"
+          git push
